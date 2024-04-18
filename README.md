@@ -49,4 +49,4 @@ Stores customer reviews after purchasing a product, helping other customers refe
 * _Show laptop list by Price low to high_ ![image](https://github.com/nvq29Apr/Ecommerce/assets/119597631/44560186-26f8-4822-9c31-3d1ba5ac5edf)
 
 > [!NOTE]
-> See more about **query and trigger, function** included at [select-function-trigger.sql](https://github.com/nvq29Apr/design-database-using-PostgreSQL/blob/master/select-function-trigger.sql)
+> See more about **query and trigger, function** included at [select-function-trigger.sql](https://github.com/VanMinh153/Database-Design-for-Tech-Store/blob/main/Function-Trigger-Query.sql)
